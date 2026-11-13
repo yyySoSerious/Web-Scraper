@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.py[cod]
+wtatennis/wta_singles_rankings.html
+rankings.json
